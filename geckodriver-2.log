@@ -1,0 +1,21 @@
+1701942659109	geckodriver	INFO	Listening on 127.0.0.1:61416
+1701942662232	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Meghana\\AppData\\Local\\Temp\\rust_mozprofilezUi6PF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701942666540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701942666889	Marionette	INFO	Listening on port 61442
+WebDriver BiDi listening on ws://127.0.0.1:61417
+Read port: 61442
+Read port: 61442
+Read port: 61442
+1701942672440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61417/devtools/browser/3216dac5-3808-496f-a1af-b84ed33ce719
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+1701942697125	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://43.204.33.181:8000."
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+JavaScript warning: http://43.204.33.181:8000/static/js/dashboard.js, line 629: unreachable code after return statement
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+1701943300207	Marionette	INFO	Stopped listening on port 61442
+Dynamically enable window occlusion 1

@@ -1,0 +1,22 @@
+1701935435758	geckodriver	INFO	Listening on 127.0.0.1:53339
+1701935439368	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Meghana\\AppData\\Local\\Temp\\rust_mozprofileffk6SY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701935447775	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701935448008	Marionette	INFO	Listening on port 53377
+WebDriver BiDi listening on ws://127.0.0.1:53340
+Read port: 53377
+Read port: 53377
+1701935453090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53340/devtools/browser/167e2ed1-a0c6-45c9-8e79-0fb547ae23b2
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+1701935479124	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://43.204.33.181:8000."
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+JavaScript warning: http://43.204.33.181:8000/static/js/dashboard.js, line 629: unreachable code after return statement
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+JavaScript error: http://43.204.33.181:8000/static/js/template.js, line 270: TypeError: document.getElementById(...) is null
+1701935559725	Marionette	INFO	Stopped listening on port 53377
+Dynamically enable window occlusion 1
